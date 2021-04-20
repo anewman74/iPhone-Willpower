@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'WillPowerTests' target in the 'WillPowerTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
